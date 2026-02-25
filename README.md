@@ -16,8 +16,8 @@ python train.py --config configs/configs/default.yaml --dataset cifar10 --model 
 
 ## 训练PT
 下载地址：
-https://pan.quark.cn/s/98f440547c86?pwd=T9F6
-提取码：T9F6
+链接：https://pan.quark.cn/s/854319d63447
+提取码：fh8M
 
 于路径下使用：
 weights/model.pt
