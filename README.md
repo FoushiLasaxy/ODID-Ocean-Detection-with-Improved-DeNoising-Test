@@ -4,7 +4,7 @@
 
 https://www.cs.toronto.edu/~kriz/cifar.html
 
-于下方路径挤压:
+于下方路径解压:
 
 data/cifar-10-batches-py/
 
