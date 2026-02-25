@@ -8,7 +8,8 @@ https://www.cs.toronto.edu/~kriz/cifar.html
 
 data/cifar-10-batches-py/
 
-或 联网状态下
+或 联网状态下：
+
 cd ~/proj/OceanClsProject
 python train.py --config configs/configs/default.yaml --dataset cifar10 --model resnet18 --epochs 5 --batch-size 32 --workers 2 --exp-name cifar10_resnet18
 
