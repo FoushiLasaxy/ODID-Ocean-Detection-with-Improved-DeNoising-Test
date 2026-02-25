@@ -1,12 +1,12 @@
 本测试项目基于：https://github.com/LEFTeyex/U-DECN
 
-conda activate oceancls
-pip install torch torchvision --index-url https://download.pytorch.org/whl/cu118
-pip install pyyaml tqdm opencv-python tensorboard
+conda activate oceancls  <cr>
+pip install torch torchvision --index-url https://download.pytorch.org/whl/cu118 <cr>
+pip install pyyaml tqdm opencv-python tensorboard <cr>
 
 离线测试:
-cd ./ODID_OceanDetectionwithImprovedDeNoising
-python train.py --config configs/configs/default.yaml --fake-data --model simple_cnn --device cpu --epochs 1 --batch-size 16 --workers 0 --img-size 32 --exp-name smoke_test
+cd ./ODID_OceanDetectionwithImprovedDeNoising <cr>
+python train.py --config configs/configs/default.yaml --fake-data --model simple_cnn --device cpu --epochs 1 --batch-size 16 --workers 0 --img-size 32 --exp-name smoke_test <cr>
 
 ## Dataset 数据集
 
