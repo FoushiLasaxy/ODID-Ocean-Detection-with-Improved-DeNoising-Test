@@ -1,0 +1,7 @@
+pyyaml
+tqdm
+tensorboard
+opencv-python
+numpy
+torchvision
+# torch is environment-specific (CPU/CUDA build), install from the official PyTorch channel
